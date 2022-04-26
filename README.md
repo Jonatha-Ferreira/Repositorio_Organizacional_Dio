@@ -1,2 +1,2 @@
 # Repositório organizacional
- - Repositório desafio de projeto GIT/GITHUB DIO. 
+ - Repositório desafio de projeto Git/GitHub DIO. 
