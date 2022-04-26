@@ -1,2 +1,2 @@
-# Repositório organizaconal DIO
+# Repositório organizacional DIO
 Repositório desafio de projeto. 
